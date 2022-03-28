@@ -6,9 +6,9 @@ title: Giovanni Tiepolo's Resume
 Business Analytics & Data Science student.
 
 <div id="webaddress">
-<a href="datascience@byui.edu">datascience@byui.edu</a>
+<a href="giovanni.b.tiepolo@gmail.com">giovanni.b.tiepolo@gmail.com</a>
 | <a href="https://byuidatascience.github.io/development.html">Data Science Program</a>
-| <a href="https://www.linkedin.com/groups/13537407/">LinkedIn</a>
+| <a href="https://www.linkedin.com/in/giovannibrunotiepolo/">LinkedIn</a>
 | <a href="https://github.com/byuids-resumes">GitHub</a>
 </div>
 
