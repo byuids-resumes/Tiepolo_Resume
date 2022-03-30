@@ -9,7 +9,7 @@ Business Analytics & Data Science student.
 <a href="giovanni.b.tiepolo@gmail.com">giovanni.b.tiepolo@gmail.com</a>
 | <a href="https://www.byui.edu/advising/career-and-major-exploration/major-to-career/business-analytics">Business Analytics Program</a>
 | <a href="https://www.linkedin.com/in/giovannibrunotiepolo/">LinkedIn</a>
-| <a href="https://github.com/byuids-resumes">GitHub</a>
+| <a href="https://giovannitiepolo.github.io/Tiepolo_Resume/">GitHub</a>
 </div>
 
 <!-- https://www.monique.tech/the-art-of-markdown -->
