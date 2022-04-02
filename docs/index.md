@@ -3,7 +3,7 @@ layout: cv
 title: Giovanni Tiepolo's Resume
 ---
 # Giovanni Tiepolo
-Business Analytics & Data Science student.
+Business Analytics & Data Science student at Brigham Young University.
 
 <div id="webaddress">
 <a href="mailto:giovanni.b.tiepolo@gmail.com">giovanni.b.tiepolo@gmail.com</a>
